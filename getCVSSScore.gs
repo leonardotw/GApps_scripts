@@ -5,7 +5,7 @@ function getCVSSScore(cveId) {
   var options = {
     muteHttpExceptions: true,
     headers: {
-      'apiKey': '091727ee-3bed-4d2a-b0d9-d55c6231801c'
+      'apiKey': 'xxxxxx-xxxx-xxxx-xxxx-xxxxxxx'
     }
   };
 
